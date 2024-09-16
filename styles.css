@@ -1,0 +1,13 @@
+body {
+    background-color:#f9f3b8;
+    font-family: Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: #7A4578;
+}
+.about {
+    color: #D1B9FA;
+    text-align: left;
+    width: 100%;
+}
